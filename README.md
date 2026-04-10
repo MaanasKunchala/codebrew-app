@@ -14,5 +14,9 @@ uvicorn app:app --reload
 cd frontend
 python3 -m http.server 5500
 
-# After running, close VM
+## To set up db on your machine:
+python init_db.py
+python seed_season_data.py
+
+### After running, close VM
 deactivate
