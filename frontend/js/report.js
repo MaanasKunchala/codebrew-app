@@ -2,6 +2,29 @@ console.log("report.js loaded");
 
 const form = document.getElementById("reportForm");
 
+const regionSelect = document.getElementById("region_name");
+
+async function loadRegions() {
+    try {
+        const response = await fetch("http://127.0.0.1:8000/regions");
+        const regions = await response.json();
+
+        regionSelect.innerHTML = '<option value="">Select</option>';
+
+        regions.forEach(region => {
+            const option = document.createElement("option");
+            option.value = region.name;
+            option.textContent = region.name;
+            regionSelect.appendChild(option);
+        });
+    } catch (error) {
+        console.error("Failed to load regions:", error);
+        regionSelect.innerHTML = '<option value="">Could not load regions</option>';
+    }
+}
+
+loadRegions();
+
 form.addEventListener("submit", async (event) => {
     event.preventDefault();
 
@@ -22,6 +45,7 @@ form.addEventListener("submit", async (event) => {
 
     const payload = {
         community_name: formData.get("community_name"),
+        region_name: formData.get("region_name"),
         reporter_type: formData.get("reporter_type"),
         local_season: formData.get("local_season"),
         rainfall_level: formData.get("rainfall_level"),
