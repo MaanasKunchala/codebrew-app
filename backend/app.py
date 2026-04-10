@@ -28,9 +28,9 @@ class Report(BaseModel):
     skin_issue_count: int
     parasite_issue_count: int
     dog_roaming_level: str
-    requested_help: bool
     recent_dog_deaths: int
     distance_to_clinic: int
+    requested_help: bool
     notes: Optional[str] = ""
 
 

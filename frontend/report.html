@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Submit Report</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <main class="screen">
+        <section class="card">
+            <div class="progress-bar">
+                <div class="progress-fill"></div>
+            </div>
+            <h1>Community Report</h1>
+            <p class="subtext">Enter current seasonal and dog health conditions.</p>
+
+            <form id="reportForm" class="form-grid">
+                <label>
+                    Community Name
+                    <input type="text" name="community_name" required />
+                </label>
+
+                <label>
+                    Reporter Type
+                    <select name="reporter_type" required>
+                        <option value="">Select</option>
+                        <option value="community_member">Community member</option>
+                        <option value="local_worker">Local worker</option>
+                        <option value="volunteer">Volunteer</option>
+                    </select>
+                </label>
+
+                <label>
+                    Local Season
+                    <input type="text" name="local_season" required />
+                </label>
+
+                <label>
+                    Rainfall Level
+                    <select name="rainfall_level" required>
+                        <option value="">Select</option>
+                        <option value="low">Low</option>
+                        <option value="medium">Medium</option>
+                        <option value="high">High</option>
+                    </select>
+                </label>
+
+                <label>
+                    Road Access
+                    <select name="road_access" required>
+                        <option value="">Select</option>
+                        <option value="easy">Easy</option>
+                        <option value="moderate">Moderate</option>
+                        <option value="difficult">Difficult</option>
+                    </select>
+                </label>
+
+                <label>
+                    Seasonal Indicators
+                    <input type="text" name="seasonal_indicators" placeholder="e.g. first rains, flowering trees" />
+                </label>
+
+                <label>
+                    Number of Dogs Seen
+                    <input type="number" name="num_dogs_seen" min="0" required />
+                </label>
+
+                <label>
+                    Puppies Seen
+                    <input type="number" name="num_puppies_seen" min="0" required />
+                </label>
+
+                <label>
+                    Dogs with Skin Issues
+                    <input type="number" name="skin_issue_count" min="0" required />
+                </label>
+
+                <label>
+                    Dogs with Parasite Issues
+                    <input type="number" name="parasite_issue_count" min="0" required />
+                </label>
+
+                <label>
+                    Dog Roaming Level
+                    <select name="dog_roaming_level" required>
+                        <option value="">Select</option>
+                        <option value="low">Low</option>
+                        <option value="medium">Medium</option>
+                        <option value="high">High</option>
+                    </select>
+                </label>
+
+                <label>
+                    Recent Dog Deaths
+                    <input type="number" name="recent_dog_deaths" min="0" required />
+                </label>
+
+                <label>
+                    Distance to Clinic (km)
+                    <input type="number" name="distance_to_clinic" min="0" required />
+                </label>
+
+                <label class="checkbox-row">
+                    <input type="checkbox" name="requested_help" />
+                    Community requested help
+                </label>
+
+                <label>
+                    Notes
+                    <textarea name="notes" rows="4"></textarea>
+                </label>
+
+                <button type="submit" class="primary-btn">Submit Report</button>
+            </form>
+        </section>
+    </main>
+
+    <script src="js/report.js"></script>
+</body>
+
+</html>
