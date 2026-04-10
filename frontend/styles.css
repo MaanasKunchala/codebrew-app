@@ -15,10 +15,47 @@
 }
 
 body {
+    padding-top: 80px;
     margin: 0;
     font-family: Arial, sans-serif;
     background: var(--bg);
     color: var(--text);
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 24px;
+  background: var(--card);
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.navbar-logo {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-links a {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navbar-links a:hover {
+  color: var(--primary);
 }
 
 .screen {
@@ -49,6 +86,240 @@ body {
 h1,
 h2 {
     margin-top: 0;
+}
+
+.hero-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-subtitle {
+  font-size: 1rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 10px;
+}
+
+.hero-title h1 {
+  margin: 0;
+  font-size: 5.5rem;
+  line-height: 0.95;
+  color: #300403;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: 700;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 40px 24px;
+}
+
+.hero-left {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-left h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  color: var(--text);
+}
+
+.hero-right {
+  flex: 1;
+}
+
+.hero-right p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+/* Section Divider */
+.section-divider {
+  margin: 40px 24px;
+  border: none;
+  border-top: 1px solid var(--border);
+}
+
+
+/* Seasons Section */
+.report-section {
+  padding: 0 24px 40px;
+}
+
+.report-card {
+  width: 100%;
+  padding: 32px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.report-card h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.report-card p {
+  margin: 0 auto;
+  max-width: 800px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.report-actions {
+  display: flex;
+  gap: 24px;
+  margin-top: 32px;
+}
+
+.action-card {
+  flex: 1;
+  padding: 24px;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  text-align: center;
+}
+
+.action-card h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: var(--text);
+}
+
+.action-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.action-btn {
+  margin-top: 20px;
+  width: fit-content;
+}
+
+/* Dogs */
+.dogs-reporting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 48px;
+  padding: 40px 24px;
+}
+
+.dogs-left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dogs-image {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  border-radius: var(--radius);
+  object-fit: cover;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.dogs-button {
+  margin-top: 20px;
+  width: fit-content;
+}
+
+.dogs-right {
+  flex: 1;
+  text-align: right;
+}
+
+.dogs-right h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.dogs-right p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+/* Insights */
+.future-section {
+  padding: 0 24px 48px;
+}
+
+.future-card {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 32px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.future-card h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.future-card p {
+  margin: 0 auto 24px;
+  max-width: 650px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.future-btn {
+  display: inline-block;
+}
+
+/* footer */
+
+.footer {
+  margin-top: 48px;
+  padding: 24px;
+  text-align: center;
+  background: var(--card);
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.footer p {
+  margin: 6px 0;
+}
+
+/* end of footer */
+
+.navbar {
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.hero,
+.report-section,
+.dogs-reporting,
+.future-section,
+.section-divider {
+  padding-left: 8vw;
+  padding-right: 8vw;
 }
 
 .eyebrow {
@@ -107,7 +378,7 @@ textarea {
 
 .primary-btn {
     display: inline-block;
-    width: 100%;
+    width: auto;
     text-align: center;
     text-decoration: none;
     border: none;
@@ -117,6 +388,7 @@ textarea {
     border-radius: 14px;
     cursor: pointer;
     font-weight: 600;
+    padding: 10px 18px;
 }
 
 .primary-btn:hover {
