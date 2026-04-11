@@ -82,6 +82,8 @@ form.addEventListener("submit", async (event) => {
     };
     */
 
+    localStorage.setItem("waldhep_last_report", JSON.stringify(payload));
+
     console.log("Payload being sent:", payload);
 
     try {

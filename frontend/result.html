@@ -4,19 +4,106 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Prediction Result</title>
+    <title>Support Insight Report</title>
     <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
-    <main class="screen center">
-        <section class="card" id="resultCard">
-            <h1>Support Insight</h1>
-            <div id="resultContent"></div>
-            <a class="primary-btn" href="report.html">Submit Another Report</a>
+    <main class="results-page">
+        <section class="report-header card" id="reportHeader">
+            <div>
+                <p class="eyebrow">Veterinary Clinic Support Insight Report</p>
+                <h1>Community Support Assessment</h1>
+                <p class="subtext">Seasonal risk, treatment need, and projected support outlook.</p>
+            </div>
+            <div class="report-meta" id="reportMeta"></div>
+        </section>
+
+        <section class="summary-section card" id="summarySection">
+            <div class="summary-main">
+                <p class="eyebrow">Executive Summary</p>
+                <h2 id="mainSupport">Loading...</h2>
+                <p class="summary-confidence" id="summaryConfidence"></p>
+                <p class="summary-action" id="summaryAction"></p>
+            </div>
+            <div class="summary-side" id="summaryReasons"></div>
+        </section>
+
+        <section class="results-grid">
+            <section class="card">
+                <div class="section-header">
+                    <div>
+                        <p class="eyebrow">Current Field Conditions</p>
+                        <h2>Observed Report Data</h2>
+                    </div>
+                </div>
+                <div class="stats-grid" id="observationsGrid"></div>
+            </section>
+
+            <section class="card">
+                <div class="section-header">
+                    <div>
+                        <p class="eyebrow">Seasonal Guidance</p>
+                        <h2>Region and Season-Based Treatment Guidance</h2>
+                    </div>
+                </div>
+                <div class="guidance-list" id="seasonalGuidanceList"></div>
+            </section>
+
+            <section class="card full-width">
+                <div class="section-header">
+                    <div>
+                        <p class="eyebrow">Forecast</p>
+                        <h2>Projected Treatment Need Over Time</h2>
+                    </div>
+                </div>
+                <div class="forecast-grid" id="forecastGrid"></div>
+            </section>
+
+            <section class="card full-width">
+                <div class="section-header">
+                    <div>
+                        <p class="eyebrow">Treatment Trends</p>
+                        <h2>Historical and Projected Treatment Progression</h2>
+                    </div>
+                </div>
+
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3>Parasite Treatment</h3>
+                        <canvas id="parasiteChart"></canvas>
+                    </div>
+
+                    <div class="chart-card">
+                        <h3>Scabies Treatment</h3>
+                        <canvas id="scabiesChart"></canvas>
+                    </div>
+
+                    <div class="chart-card full-chart">
+                        <h3>Desexing</h3>
+                        <canvas id="desexingChart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <section class="card full-width">
+                <div class="section-header">
+                    <div>
+                        <p class="eyebrow">Operational / Funding Context</p>
+                        <h2>Planning Implications</h2>
+                    </div>
+                </div>
+                <div id="fundingSection" class="funding-box"></div>
+            </section>
+        </section>
+
+        <section class="actions-row no-print">
+            <button class="primary-btn" id="printPdfBtn" type="button">Export / Print PDF</button>
+            <a class="primary-btn secondary-btn" href="report.html">Submit Another Report</a>
         </section>
     </main>
 
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="js/result.js"></script>
 </body>
 

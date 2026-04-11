@@ -19,7 +19,7 @@ class WrappedXGBModel:
                 max_depth=4,
                 learning_rate=0.05,
                 enable_categorical=True,
-                random_state=42
+                random_state=42,
             )
         )
 
@@ -48,10 +48,6 @@ class WrappedXGBModel:
         X = self._preprocess(df)
         preds = self.model.predict(X)
 
-        pred_df = pd.DataFrame(
-            preds,
-            columns=self.target_cols,
-            index=df.index
-        )
+        pred_df = pd.DataFrame(preds, columns=self.target_cols, index=df.index)
 
         return pred_df
