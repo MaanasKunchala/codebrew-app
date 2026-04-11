@@ -4,6 +4,8 @@ const form = document.getElementById("reportForm");
 
 const regionSelect = document.getElementById("region_name");
 
+const localSeasonSelect = document.getElementById("local_season");
+
 async function loadRegions() {
     try {
         const response = await fetch("http://127.0.0.1:8000/regions");
@@ -24,6 +26,27 @@ async function loadRegions() {
 }
 
 loadRegions();
+
+async function loadLocalSeasons() {
+    try {
+        const response = await fetch("http://127.0.0.1:8000/local-seasons");
+        const local_seasons = await response.json();
+
+        localSeasonSelect.innerHTML = '<option value="">Select</option>';
+
+        local_seasons.forEach(local_season => {
+            const option = document.createElement("option");
+            option.value = local_season.name;
+            option.textContent = local_season.name;
+            localSeasonSelect.appendChild(option);
+        });
+    } catch (error) {
+        console.error("Failed to load local seasons:", error);
+        localSeasonsSelect.innerHTML = '<option value="">Could not load local seasons</option>';
+    }
+}
+
+loadLocalSeasons();
 
 form.addEventListener("submit", async (event) => {
     event.preventDefault();

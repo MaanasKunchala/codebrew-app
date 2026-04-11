@@ -486,6 +486,24 @@ def get_regions():
     return [{"id": row[0], "name": row[1]} for row in rows]
 
 
+@app.get("/local-seasons")
+def get_local_seasons():
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute(
+        """
+        SELECT id, name
+        FROM seasons
+        ORDER BY name
+    """
+    )
+    rows = cursor.fetchall()
+    conn.close()
+
+    return [{"id": row[0], "name": row[1]} for row in rows]
+
+
 """
 def build_model_input(report: Report):
     conn = get_connection()
