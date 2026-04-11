@@ -12,7 +12,7 @@ import sys
 from fastapi import HTTPException
 
 DB_PATH = Path(__file__).parent / "database" / "reports.db"
-MODEL_PATH = Path(__file__).parent / "model" / "wrapped_XGB_model.joblib"
+MODEL_PATH = Path(__file__).parent / "model" / "wrapped_XGB_model_new.joblib"
 MODEL_DIR = Path(__file__).parent / "model"
 if str(MODEL_DIR) not in sys.path:
     sys.path.append(str(MODEL_DIR))
