@@ -147,6 +147,74 @@ def get_season_treatment_guidance(cursor, season_id: int):
     return guidance
 
 
+def get_historical_treatment_trends(cursor, region_id: int, community_name: str):
+    cursor.execute(
+        """
+        SELECT
+            vv.visit_date,
+            tr.treatment_category,
+            tr.treatment_percentage
+        FROM veterinary_visits vv
+        JOIN treatment_records tr ON vv.id = tr.visit_id
+        WHERE vv.region_id = ? AND vv.community_name = ?
+        ORDER BY vv.visit_date ASC
+    """,
+        (region_id, community_name),
+    )
+
+    rows = cursor.fetchall()
+
+    trends = {"parasite": [], "scabies": [], "desexing": []}
+
+    cumulative = {"parasite": 0.0, "scabies": 0.0, "desexing": 0.0}
+
+    for visit_date, category, pct in rows:
+        if category not in trends:
+            continue
+        cumulative[category] += pct
+        trends[category].append(
+            {
+                "date": visit_date,
+                "percentage": round(pct, 2),
+                "cumulative_percentage": round(cumulative[category], 2),
+            }
+        )
+
+    return trends
+
+
+def estimate_desexing_projection(report, historical_trends):
+    roaming_factor = {"low": 0.2, "medium": 0.5, "high": 1.0}.get(
+        report.dog_roaming_level.lower(), 0.5
+    )
+
+    puppy_ratio = report.num_puppies_seen / max(report.num_dogs_seen, 1)
+    months_since_last_visit_factor = min(
+        1.0, 4 / 12
+    )  # placeholder until this field is in runtime report
+    previous_desexing_factor = 1.0
+
+    if historical_trends["desexing"]:
+        last_cumulative = historical_trends["desexing"][-1]["cumulative_percentage"]
+        previous_desexing_factor = max(0.0, 1 - min(last_cumulative / 100, 1.0))
+
+    current_prob = min(
+        0.95,
+        0.20
+        + 0.40 * puppy_ratio
+        + 0.20 * roaming_factor
+        + 0.20 * months_since_last_visit_factor
+        + 0.20 * previous_desexing_factor,
+    )
+
+    return {
+        "3_months": round(min(0.95, current_prob + 0.05), 2),
+        "6_months": round(min(0.95, current_prob + 0.10), 2),
+        "9_months": round(min(0.95, current_prob + 0.15), 2),
+        "12_months": round(min(0.95, current_prob + 0.20), 2),
+    }
+
+
 @app.get("/")
 def root():
     return {"message": "WALDHeP backend running"}
@@ -182,6 +250,12 @@ def submit_report(report: Report):
     seasonal_guidance = (
         get_season_treatment_guidance(cursor, season_id) if season_id else []
     )
+
+    historical_trends = get_historical_treatment_trends(
+        cursor, region_id, report.community_name
+    )
+
+    desexing_projection = estimate_desexing_projection(report, historical_trends)
 
     seasonal_indicators_text = ", ".join(report.seasonal_indicators)
     report_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -274,4 +348,6 @@ def submit_report(report: Report):
         "reasons": reasons,
         "recommended_action": "Review report and schedule community follow-up if needed.",
         "seasonal_guidance": seasonal_guidance,
+        "historical_treatment_trends": historical_trends,
+        "desexing_projection": desexing_projection,
     }
