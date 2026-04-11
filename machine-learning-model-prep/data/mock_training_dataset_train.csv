@@ -1,0 +1,361 @@
+report_id,community_name,region_id,report_date,reporter_type,local_season,rainfall_level,road_access,seasonal_indicators_text,num_dogs_seen,num_puppies_seen,skin_issue_count,parasite_issue_count,recent_dog_deaths,distance_to_clinic,dog_roaming_level,requested_help,notes,months_since_last_visit,needs_parasite_treatment_3m,needs_scabies_treatment_3m,needs_followup_visit_3m,needs_parasite_treatment_6m,needs_scabies_treatment_6m,needs_followup_visit_6m,needs_parasite_treatment_9m,needs_scabies_treatment_9m,needs_followup_visit_9m,needs_parasite_treatment_12m,needs_scabies_treatment_12m,needs_followup_visit_12m
+225,Ramingining,1,2022-01-03,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",180,33,7,6,2,190,high,1,Synthetic ranger field report,2,1,1,1,1,1,0,0,1,1,0,0,0
+1,Maningrida,1,2022-01-04,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",96,19,3,5,1,120,medium,0,Synthetic ranger field report,1,1,0,0,0,1,1,1,0,0,1,1,1
+90,Warruwi,1,2022-01-06,waldhep_staff,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",94,7,5,5,1,180,medium,0,Synthetic ranger field report,2,0,0,0,1,0,1,0,1,1,1,0,0
+179,Milingimbi,1,2022-01-07,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",102,19,8,7,1,210,medium,1,Synthetic ranger field report,4,1,1,1,1,0,1,0,1,1,0,0,1
+361,Outstation B,1,2022-01-09,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",101,11,6,2,0,105,medium,1,Synthetic ranger field report,1,1,1,1,1,1,1,0,1,0,1,0,0
+271,Minjilang,1,2022-01-11,veterinarian,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",40,5,4,7,0,230,medium,1,Synthetic ranger field report,4,1,0,0,1,0,0,1,1,0,0,0,0
+318,Outstation A,1,2022-01-13,ranger,Kudjewk,medium,moderate,"monsoon_building, flooded_ground, mosquitoes_high",108,18,6,4,1,95,medium,1,Synthetic ranger field report,2,1,1,1,1,1,0,1,1,1,1,0,1
+46,Gunbalanya,1,2022-01-15,ranger,Kudjewk,medium,moderate,"monsoon_building, flooded_ground, mosquitoes_high",34,7,8,2,0,70,medium,1,Synthetic ranger field report,1,0,1,1,1,0,1,0,0,0,0,1,0
+133,Jabiru,1,2022-01-19,ranger,Kudjewk,medium,easy,"monsoon_building, flooded_ground, mosquitoes_high",29,6,5,6,0,40,medium,0,Synthetic ranger field report,1,1,1,1,0,0,1,0,1,1,0,0,0
+407,Croker Camp,1,2022-01-20,ranger,Kudjewk,low,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",39,7,8,1,2,160,high,1,Synthetic ranger field report,3,1,1,1,1,0,1,0,0,1,0,1,1
+2,Maningrida,1,2022-02-04,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",89,11,7,11,1,120,medium,1,Synthetic ranger field report,2,0,1,1,1,0,1,1,1,0,0,0,0
+226,Ramingining,1,2022-02-05,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",123,16,10,11,1,190,high,1,Synthetic ranger field report,2,1,0,1,1,1,1,0,1,0,0,0,1
+319,Outstation A,1,2022-02-09,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",115,16,7,8,1,95,high,1,Synthetic ranger field report,3,1,0,0,1,0,0,0,0,0,0,1,1
+180,Milingimbi,1,2022-02-11,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",83,12,6,9,0,210,high,1,Synthetic ranger field report,1,1,1,1,1,0,1,1,1,0,0,1,1
+272,Minjilang,1,2022-02-12,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",105,16,7,6,0,230,medium,1,Synthetic ranger field report,6,0,0,1,0,0,1,1,0,0,0,1,1
+134,Jabiru,1,2022-02-13,ranger,Kudjewk,medium,easy,"monsoon_building, flooded_ground, mosquitoes_high",53,4,6,7,2,40,medium,1,Synthetic ranger field report,2,0,1,0,1,1,0,1,1,0,0,0,0
+91,Warruwi,1,2022-02-15,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",103,16,4,7,0,180,medium,1,Synthetic ranger field report,4,0,1,0,1,1,1,1,1,0,1,0,1
+362,Outstation B,1,2022-02-16,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",64,12,9,8,3,105,high,1,Synthetic ranger field report,1,0,1,0,1,0,0,0,1,1,0,1,0
+47,Gunbalanya,1,2022-02-22,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",63,12,10,7,0,70,high,1,Synthetic ranger field report,2,1,0,1,1,1,0,1,0,1,0,0,1
+408,Croker Camp,1,2022-02-25,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",50,10,5,6,2,160,high,1,Synthetic ranger field report,4,1,0,0,0,1,1,1,0,0,1,0,1
+3,Maningrida,1,2022-03-04,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",94,18,9,6,0,120,medium,1,Synthetic ranger field report,1,1,1,0,1,1,0,0,0,1,1,1,1
+227,Ramingining,1,2022-03-07,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",180,33,8,7,2,190,medium,1,Synthetic ranger field report,3,1,1,1,1,1,1,0,1,1,0,1,1
+135,Jabiru,1,2022-03-11,ranger,Kudjewk,medium,easy,"monsoon_building, flooded_ground, mosquitoes_high",37,5,8,7,1,40,medium,1,Synthetic ranger field report,1,1,1,1,1,1,1,0,0,1,1,1,0
+181,Milingimbi,1,2022-03-13,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",123,14,5,12,1,210,medium,1,Synthetic ranger field report,2,1,1,1,0,1,1,1,1,1,1,0,1
+320,Outstation A,1,2022-03-17,ranger,Kudjewk,medium,moderate,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",52,3,1,8,0,95,high,1,Synthetic ranger field report,5,1,1,1,1,0,1,0,1,1,0,1,0
+92,Warruwi,1,2022-03-19,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",105,15,5,4,1,180,low,0,Synthetic ranger field report,1,1,0,1,0,0,1,0,0,0,0,1,0
+273,Minjilang,1,2022-03-19,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",39,6,3,3,0,230,high,1,Synthetic ranger field report,8,1,0,1,0,1,1,0,1,1,1,0,0
+48,Gunbalanya,1,2022-03-20,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",64,8,5,11,2,70,medium,1,Synthetic ranger field report,3,1,1,0,0,0,0,1,0,1,0,0,1
+363,Outstation B,1,2022-03-20,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",67,12,7,8,0,105,high,1,Synthetic ranger field report,1,1,1,1,1,0,1,1,1,1,1,1,1
+409,Croker Camp,1,2022-04-03,ranger,Bangkerreng,low,difficult,"storm_tail, wet_ground, dog_movement_high",20,3,4,2,0,160,high,0,Synthetic ranger field report,4,1,0,1,1,0,1,0,1,1,0,0,1
+4,Maningrida,1,2022-04-04,ranger,Bangkerreng,medium,difficult,"storm_tail, wet_ground, dog_movement_high",98,14,6,5,0,120,high,1,Synthetic ranger field report,1,1,1,1,0,1,1,0,0,1,1,0,0
+364,Outstation B,1,2022-04-15,ranger,Bangkerreng,medium,difficult,"storm_tail, wet_ground",96,14,4,7,3,105,medium,1,Synthetic ranger field report,1,1,1,1,1,0,1,0,1,0,1,1,0
+228,Ramingining,1,2022-04-16,ranger,Bangkerreng,low,difficult,"storm_tail, wet_ground, dog_movement_high",29,3,4,2,2,190,high,1,Synthetic ranger field report,4,1,0,1,1,0,0,1,0,1,0,0,0
+274,Minjilang,1,2022-04-17,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water",37,4,7,9,0,230,medium,1,Synthetic ranger field report,9,1,1,0,0,0,1,0,0,1,0,0,0
+49,Gunbalanya,1,2022-04-19,ranger,Bangkerreng,high,moderate,"storm_tail, wet_ground, standing_water",60,5,4,8,1,70,medium,1,Synthetic ranger field report,4,1,1,1,1,0,0,1,1,1,1,0,0
+136,Jabiru,1,2022-04-20,waldhep_staff,Bangkerreng,medium,easy,"storm_tail, wet_ground",77,10,5,7,1,40,medium,1,Synthetic ranger field report,1,1,1,1,1,0,0,0,0,0,1,1,1
+182,Milingimbi,1,2022-04-21,ranger,Bangkerreng,medium,difficult,"storm_tail, wet_ground",63,9,4,5,1,210,medium,0,Synthetic ranger field report,3,0,1,1,1,0,1,1,0,1,0,1,0
+321,Outstation A,1,2022-04-24,ranger,Bangkerreng,low,moderate,"storm_tail, wet_ground",63,6,5,1,0,95,low,1,Synthetic ranger field report,6,1,0,0,0,1,1,0,1,1,0,0,1
+93,Warruwi,1,2022-04-28,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water",138,13,9,9,0,180,low,1,Synthetic ranger field report,2,1,0,1,1,1,1,0,1,0,1,0,1
+410,Croker Camp,1,2022-04-28,ranger,Bangkerreng,low,difficult,"storm_tail, wet_ground",20,2,5,2,0,160,low,1,Synthetic ranger field report,6,1,1,1,1,0,1,0,1,1,0,1,1
+5,Maningrida,1,2022-05-11,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",157,14,6,8,1,120,medium,1,Synthetic ranger field report,3,1,1,1,0,0,0,0,0,1,0,0,1
+137,Jabiru,1,2022-05-15,ranger,Yekke,low,easy,"cooler_mornings, surface_water_remaining",58,4,3,3,0,40,medium,0,Synthetic ranger field report,1,0,0,1,0,0,0,1,0,0,1,1,1
+365,Outstation B,1,2022-05-16,ranger,Yekke,high,difficult,"cooler_mornings, surface_water_remaining, standing_water, dog_movement_high",175,23,7,5,1,105,high,1,Synthetic ranger field report,1,0,0,1,1,0,1,1,1,1,0,0,0
+183,Milingimbi,1,2022-05-18,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",55,5,4,4,0,210,medium,1,Synthetic ranger field report,5,1,0,1,1,1,0,0,1,1,0,0,1
+275,Minjilang,1,2022-05-18,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",45,6,2,7,2,230,medium,1,Synthetic ranger field report,9,0,1,1,1,0,1,0,0,1,1,1,0
+229,Ramingining,1,2022-05-19,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",52,6,4,4,1,190,medium,0,Synthetic ranger field report,1,0,1,1,1,1,1,0,0,1,0,1,1
+50,Gunbalanya,1,2022-05-22,ranger,Yekke,medium,moderate,"cooler_mornings, surface_water_remaining",63,7,3,3,1,70,medium,1,Synthetic ranger field report,6,1,0,1,1,0,1,1,1,1,1,1,1
+94,Warruwi,1,2022-05-25,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",112,13,1,3,1,180,high,0,Synthetic ranger field report,1,1,0,0,1,0,1,0,0,1,0,0,0
+322,Outstation A,1,2022-05-31,ranger,Yekke,medium,moderate,"cooler_mornings, surface_water_remaining",41,6,5,1,1,95,medium,0,Synthetic ranger field report,1,1,0,1,0,0,1,1,0,1,1,0,1
+411,Croker Camp,1,2022-06-01,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",20,3,4,3,1,160,low,1,Synthetic ranger field report,7,1,1,0,0,0,1,1,1,0,0,1,0
+6,Maningrida,1,2022-06-11,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",56,9,3,4,1,120,high,0,Synthetic ranger field report,4,0,0,1,1,0,1,0,0,0,0,1,0
+230,Ramingining,1,2022-06-15,waldhep_staff,Yekke,low,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",74,12,4,3,0,190,high,0,Synthetic ranger field report,1,1,0,0,0,0,0,0,1,1,0,0,0
+138,Jabiru,1,2022-06-17,waldhep_staff,Yekke,low,easy,"cooler_mornings, surface_water_remaining",87,12,3,5,2,40,medium,1,Synthetic ranger field report,2,0,0,0,0,0,0,0,0,1,1,1,1
+276,Minjilang,1,2022-06-18,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",86,18,4,6,2,230,low,1,Synthetic ranger field report,9,1,0,1,1,0,0,1,1,1,1,0,1
+95,Warruwi,1,2022-06-21,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",80,6,5,5,0,180,high,0,Synthetic ranger field report,2,1,1,1,0,1,1,1,1,0,1,1,1
+184,Milingimbi,1,2022-06-21,waldhep_staff,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",26,2,4,6,1,210,low,1,Synthetic ranger field report,6,1,1,1,0,0,0,1,0,0,0,0,1
+366,Outstation B,1,2022-06-21,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",68,2,6,2,0,105,high,1,Synthetic ranger field report,2,0,1,1,0,0,0,0,1,0,0,0,1
+323,Outstation A,1,2022-06-26,veterinarian,Yekke,medium,moderate,"cooler_mornings, surface_water_remaining",88,11,5,7,0,95,low,1,Synthetic ranger field report,2,0,1,1,1,0,1,0,0,0,1,0,1
+51,Gunbalanya,1,2022-06-29,ranger,Yekke,medium,moderate,"cooler_mornings, surface_water_remaining",76,6,2,6,0,70,medium,0,Synthetic ranger field report,1,1,0,1,0,1,1,0,1,0,1,0,1
+412,Croker Camp,1,2022-07-04,waldhep_staff,Wurrkeng,medium,difficult,"cool_dry, low_humidity",28,4,2,6,2,160,medium,1,Synthetic ranger field report,8,1,0,1,1,0,1,1,0,0,1,0,1
+7,Maningrida,1,2022-07-11,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",180,12,2,2,0,120,medium,1,Synthetic ranger field report,5,0,0,1,1,1,1,0,1,0,1,1,1
+277,Minjilang,1,2022-07-14,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity, dog_movement_high",133,8,2,3,1,230,high,0,Synthetic ranger field report,1,1,0,1,0,0,0,1,0,0,0,1,1
+139,Jabiru,1,2022-07-18,ranger,Wurrkeng,medium,easy,"cool_dry, low_humidity",95,6,1,4,2,40,medium,1,Synthetic ranger field report,3,1,1,1,0,0,1,0,0,1,1,0,1
+231,Ramingining,1,2022-07-18,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",119,17,4,4,0,190,high,0,Synthetic ranger field report,3,0,1,1,0,1,1,0,1,1,1,0,1
+324,Outstation A,1,2022-07-21,ranger,Wurrkeng,low,moderate,"cool_dry, low_humidity",61,4,4,1,0,95,medium,0,Synthetic ranger field report,3,1,0,0,1,0,0,0,0,0,0,1,0
+185,Milingimbi,1,2022-07-22,waldhep_staff,Wurrkeng,low,difficult,"cool_dry, low_humidity",57,2,3,3,0,210,medium,1,Synthetic ranger field report,8,1,0,1,0,0,1,1,1,1,1,0,1
+96,Warruwi,1,2022-07-28,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",139,13,4,3,0,180,medium,0,Synthetic ranger field report,2,1,1,1,1,1,0,1,0,0,0,0,1
+367,Outstation B,1,2022-07-28,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity",64,9,4,3,0,105,low,0,Synthetic ranger field report,4,1,1,0,1,1,1,1,1,1,0,0,1
+52,Gunbalanya,1,2022-08-06,ranger,Wurrkeng,medium,moderate,"cool_dry, low_humidity",101,7,3,4,1,70,medium,0,Synthetic ranger field report,1,1,1,0,0,1,0,0,0,1,1,1,0
+413,Croker Camp,1,2022-08-11,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",24,2,2,2,0,160,medium,1,Synthetic ranger field report,8,1,1,0,0,0,1,1,0,0,1,1,1
+8,Maningrida,1,2022-08-15,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity",136,11,1,4,0,120,medium,1,Synthetic ranger field report,5,1,1,0,1,0,0,1,0,0,1,0,0
+278,Minjilang,1,2022-08-21,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity",76,0,3,4,1,230,medium,0,Synthetic ranger field report,2,0,1,0,0,0,1,1,0,1,0,0,0
+140,Jabiru,1,2022-08-22,waldhep_staff,Wurrkeng,medium,easy,"cool_dry, low_humidity, dog_movement_high",20,3,2,5,0,40,high,0,Synthetic ranger field report,1,0,0,0,1,1,0,1,1,1,0,0,0
+368,Outstation B,1,2022-08-23,veterinarian,Wurrkeng,low,difficult,"cool_dry, low_humidity",62,4,2,3,0,105,medium,1,Synthetic ranger field report,5,0,1,1,0,1,0,0,1,1,0,1,1
+97,Warruwi,1,2022-08-26,ranger,Wurrkeng,high,difficult,"cool_dry, low_humidity, standing_water",47,6,2,8,1,180,medium,1,Synthetic ranger field report,3,1,0,0,1,1,1,1,0,0,0,0,1
+232,Ramingining,1,2022-08-26,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity",180,16,4,6,0,190,low,0,Synthetic ranger field report,4,0,0,1,0,0,1,1,0,1,1,0,0
+325,Outstation A,1,2022-08-28,ranger,Wurrkeng,low,moderate,"cool_dry, low_humidity, dog_movement_high",136,16,6,4,2,95,high,1,Synthetic ranger field report,5,1,1,1,0,0,1,0,1,1,0,0,0
+186,Milingimbi,1,2022-08-31,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity, dog_movement_high",30,4,3,6,1,210,high,0,Synthetic ranger field report,1,1,1,1,1,0,1,1,0,1,1,0,1
+53,Gunbalanya,1,2022-09-02,ranger,Kurrung,low,moderate,"hot_dry, thunderclouds_building",48,4,2,1,0,70,medium,0,Synthetic ranger field report,2,0,0,0,0,0,0,0,1,1,0,1,1
+9,Maningrida,1,2022-09-12,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",21,3,5,3,1,120,low,0,Synthetic ranger field report,1,0,1,1,0,1,1,0,0,0,1,1,1
+369,Outstation B,1,2022-09-17,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",43,3,5,4,0,105,high,1,Synthetic ranger field report,5,0,1,1,0,1,1,0,0,1,0,1,1
+414,Croker Camp,1,2022-09-20,veterinarian,Kurrung,medium,difficult,"hot_dry, thunderclouds_building",61,6,2,2,0,160,medium,1,Synthetic ranger field report,9,1,0,1,1,0,0,0,0,1,1,1,1
+233,Ramingining,1,2022-09-22,ranger,Kurrung,high,difficult,"hot_dry, thunderclouds_building, standing_water, dog_movement_high",70,8,5,6,0,190,high,1,Synthetic ranger field report,5,0,1,1,0,1,1,0,0,1,1,1,1
+141,Jabiru,1,2022-09-26,waldhep_staff,Kurrung,low,easy,"hot_dry, thunderclouds_building",72,11,4,4,1,40,medium,0,Synthetic ranger field report,2,1,0,1,0,0,1,0,1,1,1,1,1
+98,Warruwi,1,2022-09-28,veterinarian,Kurrung,low,difficult,"hot_dry, thunderclouds_building",58,7,5,4,1,180,medium,1,Synthetic ranger field report,5,1,0,0,1,0,0,0,1,1,1,1,1
+279,Minjilang,1,2022-09-29,ranger,Kurrung,medium,difficult,"hot_dry, thunderclouds_building",27,3,3,5,1,230,low,0,Synthetic ranger field report,2,0,0,1,1,0,1,1,1,1,0,0,0
+187,Milingimbi,1,2022-10-03,waldhep_staff,Kurrung,medium,difficult,"hot_dry, thunderclouds_building",76,4,4,4,1,210,medium,0,Synthetic ranger field report,3,1,0,1,1,0,1,0,0,0,1,1,0
+326,Outstation A,1,2022-10-05,ranger,Kurrung,medium,moderate,"hot_dry, thunderclouds_building",70,5,2,3,1,95,low,0,Synthetic ranger field report,1,1,1,1,0,1,0,1,0,1,0,0,1
+54,Gunbalanya,1,2022-10-06,ranger,Kurrung,low,moderate,"hot_dry, thunderclouds_building, dog_movement_high",20,1,3,0,0,70,high,0,Synthetic ranger field report,2,1,0,0,1,0,0,0,0,0,0,0,1
+370,Outstation B,1,2022-10-17,veterinarian,Kurrung,medium,difficult,"hot_dry, thunderclouds_building",92,8,3,6,1,105,low,0,Synthetic ranger field report,1,0,1,0,0,0,0,1,1,0,0,0,1
+415,Croker Camp,1,2022-10-18,waldhep_staff,Kurrung,medium,difficult,"hot_dry, thunderclouds_building",20,3,3,6,1,160,low,0,Synthetic ranger field report,1,1,0,1,0,1,1,1,1,0,1,0,0
+10,Maningrida,1,2022-10-21,veterinarian,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",129,6,3,3,1,120,high,0,Synthetic ranger field report,2,0,0,0,1,0,0,0,1,0,1,1,0
+188,Milingimbi,1,2022-10-29,ranger,Kurrung,medium,difficult,"hot_dry, thunderclouds_building, dog_movement_high",42,7,2,5,1,210,high,0,Synthetic ranger field report,3,1,1,1,1,0,1,1,0,1,0,1,1
+234,Ramingining,1,2022-10-29,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",74,7,3,3,2,190,low,1,Synthetic ranger field report,5,1,1,1,1,0,0,1,0,1,1,0,1
+280,Minjilang,1,2022-10-30,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",34,5,4,2,0,230,medium,0,Synthetic ranger field report,2,0,0,1,0,0,0,1,1,0,0,1,0
+142,Jabiru,1,2022-10-31,ranger,Kurrung,high,easy,"hot_dry, thunderclouds_building, standing_water",50,6,6,7,1,40,low,1,Synthetic ranger field report,3,1,1,1,0,0,1,1,0,0,1,0,1
+99,Warruwi,1,2022-11-04,waldhep_staff,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, dog_movement_high",121,11,6,6,2,180,high,1,Synthetic ranger field report,5,1,0,1,1,0,1,0,0,1,0,0,1
+55,Gunbalanya,1,2022-11-05,ranger,Kunumeleng,high,moderate,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water",64,9,4,8,0,70,medium,1,Synthetic ranger field report,2,1,0,1,1,0,1,0,0,0,0,1,0
+327,Outstation A,1,2022-11-14,ranger,Kunumeleng,medium,moderate,"humid_build_up, afternoon_storms, mosquitoes_rising",53,9,4,4,2,95,low,1,Synthetic ranger field report,2,1,1,1,1,0,1,0,0,0,0,0,0
+371,Outstation B,1,2022-11-18,ranger,Kunumeleng,high,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water, dog_movement_high",94,12,7,5,1,105,high,1,Synthetic ranger field report,1,1,0,0,0,1,1,1,1,1,1,1,1
+416,Croker Camp,1,2022-11-18,waldhep_staff,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising",30,3,4,4,1,160,medium,0,Synthetic ranger field report,3,1,0,1,1,1,1,0,1,0,0,1,0
+11,Maningrida,1,2022-11-22,ranger,Kunumeleng,high,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water, dog_movement_high",45,5,4,9,0,120,high,1,Synthetic ranger field report,4,1,1,1,1,1,1,0,1,1,0,0,1
+281,Minjilang,1,2022-11-24,ranger,Kunumeleng,low,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, dog_movement_high",52,11,6,0,0,230,high,1,Synthetic ranger field report,3,0,1,1,1,0,1,1,1,0,0,1,0
+235,Ramingining,1,2022-11-26,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising",130,15,2,3,1,190,medium,1,Synthetic ranger field report,6,1,0,1,0,1,1,1,1,0,1,1,1
+189,Milingimbi,1,2022-11-28,ranger,Kunumeleng,high,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water, dog_movement_high",166,23,9,9,0,210,high,1,Synthetic ranger field report,5,1,0,0,1,0,1,1,0,1,1,0,1
+143,Jabiru,1,2022-12-01,ranger,Kudjewk,medium,easy,"monsoon_building, flooded_ground, mosquitoes_high",38,5,6,2,1,40,medium,1,Synthetic ranger field report,4,1,0,1,0,1,0,0,0,1,0,1,1
+56,Gunbalanya,1,2022-12-04,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",65,9,6,4,0,70,high,1,Synthetic ranger field report,1,1,0,0,0,0,1,0,1,1,1,0,1
+100,Warruwi,1,2022-12-12,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",66,6,5,5,1,180,medium,0,Synthetic ranger field report,1,1,1,1,1,1,1,0,1,0,1,1,1
+328,Outstation A,1,2022-12-21,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",90,15,7,10,1,95,low,1,Synthetic ranger field report,3,1,1,0,1,1,0,1,0,0,0,1,1
+372,Outstation B,1,2022-12-22,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",44,9,6,6,2,105,low,1,Synthetic ranger field report,1,0,1,0,0,1,1,1,1,0,1,0,1
+12,Maningrida,1,2022-12-23,veterinarian,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",67,9,8,5,0,120,low,1,Synthetic ranger field report,1,0,1,0,1,0,1,0,1,0,0,1,1
+236,Ramingining,1,2022-12-24,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",131,8,7,7,1,190,medium,1,Synthetic ranger field report,6,0,1,1,0,0,0,0,1,1,1,1,0
+282,Minjilang,1,2022-12-24,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",50,10,8,3,1,230,high,1,Synthetic ranger field report,5,1,1,1,0,1,1,0,1,1,1,0,0
+417,Croker Camp,1,2022-12-24,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",41,6,8,5,0,160,high,1,Synthetic ranger field report,4,1,1,1,0,1,0,0,1,0,1,1,0
+144,Jabiru,1,2023-01-03,ranger,Kudjewk,high,easy,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",36,5,7,4,0,40,high,1,Synthetic ranger field report,6,1,0,1,1,1,0,1,0,0,0,0,1
+190,Milingimbi,1,2023-01-06,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",34,4,9,9,0,210,high,1,Synthetic ranger field report,6,1,1,1,0,1,1,0,1,0,0,0,1
+101,Warruwi,1,2023-01-12,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",76,12,9,9,2,180,low,1,Synthetic ranger field report,3,1,0,1,1,1,1,1,1,0,1,1,0
+57,Gunbalanya,1,2023-01-13,waldhep_staff,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",169,34,8,3,1,70,low,1,Synthetic ranger field report,1,1,1,1,0,0,0,1,1,1,0,1,1
+373,Outstation B,1,2023-01-18,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",85,10,5,5,1,105,medium,0,Synthetic ranger field report,1,0,0,0,0,0,1,1,0,1,0,1,1
+13,Maningrida,1,2023-01-23,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",155,14,8,10,1,120,medium,1,Synthetic ranger field report,1,1,1,0,1,1,1,1,0,0,1,0,1
+237,Ramingining,1,2023-01-23,veterinarian,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",96,11,8,13,1,190,low,1,Synthetic ranger field report,1,1,1,1,1,0,1,1,1,1,1,1,1
+283,Minjilang,1,2023-01-23,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",55,5,5,1,0,230,medium,1,Synthetic ranger field report,7,1,1,0,1,0,1,1,1,1,0,0,0
+329,Outstation A,1,2023-01-25,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",96,13,6,11,1,95,medium,1,Synthetic ranger field report,4,1,1,1,0,0,1,1,1,1,1,0,1
+418,Croker Camp,1,2023-02-02,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",67,5,6,7,2,160,medium,1,Synthetic ranger field report,6,1,1,0,1,1,0,1,0,1,0,1,1
+191,Milingimbi,1,2023-02-07,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",42,6,3,6,0,210,medium,1,Synthetic ranger field report,7,1,1,0,1,0,1,1,1,1,0,0,1
+145,Jabiru,1,2023-02-10,ranger,Kudjewk,high,easy,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",46,7,8,7,2,40,high,1,Synthetic ranger field report,1,0,0,1,0,0,0,1,0,1,1,0,0
+58,Gunbalanya,1,2023-02-16,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",117,21,6,6,0,70,high,1,Synthetic ranger field report,1,1,0,1,1,1,1,1,0,1,1,1,0
+102,Warruwi,1,2023-02-18,waldhep_staff,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",70,13,6,5,2,180,medium,1,Synthetic ranger field report,3,1,0,1,1,1,1,0,1,0,1,1,1
+238,Ramingining,1,2023-02-18,veterinarian,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",130,17,8,6,1,190,low,1,Synthetic ranger field report,2,0,1,0,0,1,1,1,1,1,1,1,0
+284,Minjilang,1,2023-02-20,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",58,6,9,7,1,230,high,1,Synthetic ranger field report,9,1,0,1,1,1,1,1,0,1,1,0,1
+14,Maningrida,1,2023-02-21,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",132,29,3,9,1,120,high,1,Synthetic ranger field report,1,1,0,1,1,1,0,0,0,0,0,1,0
+330,Outstation A,1,2023-02-24,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",124,11,1,7,0,95,high,1,Synthetic ranger field report,5,0,1,0,1,1,0,1,1,0,1,0,0
+374,Outstation B,1,2023-02-27,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",72,13,7,11,2,105,medium,1,Synthetic ranger field report,1,1,1,0,1,0,1,0,0,1,1,1,1
+419,Croker Camp,1,2023-03-06,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",43,7,6,6,1,160,high,1,Synthetic ranger field report,6,1,0,0,1,0,1,0,0,1,1,1,1
+192,Milingimbi,1,2023-03-12,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",162,27,8,9,1,210,low,1,Synthetic ranger field report,7,1,1,0,1,1,1,0,1,1,1,1,0
+59,Gunbalanya,1,2023-03-16,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",93,12,9,5,2,70,medium,1,Synthetic ranger field report,1,1,1,1,1,1,1,1,0,1,1,1,0
+146,Jabiru,1,2023-03-16,ranger,Kudjewk,high,easy,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",42,6,6,9,0,40,high,1,Synthetic ranger field report,2,1,1,0,0,1,0,1,1,0,1,1,0
+103,Warruwi,1,2023-03-18,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",105,4,3,5,0,180,low,0,Synthetic ranger field report,4,1,1,1,1,0,1,1,0,0,0,1,1
+285,Minjilang,1,2023-03-22,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",89,17,8,6,1,230,high,1,Synthetic ranger field report,1,0,0,1,1,1,0,1,0,0,1,1,1
+15,Maningrida,1,2023-03-28,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",81,10,10,2,1,120,high,1,Synthetic ranger field report,3,1,0,1,1,1,1,0,0,1,0,1,0
+331,Outstation A,1,2023-03-28,ranger,Kudjewk,medium,moderate,"monsoon_building, flooded_ground, mosquitoes_high",99,8,8,5,1,95,medium,1,Synthetic ranger field report,5,1,0,1,0,0,1,1,0,0,0,0,0
+239,Ramingining,1,2023-03-30,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",102,21,4,12,1,190,low,1,Synthetic ranger field report,1,1,1,0,1,1,0,1,0,1,1,0,1
+375,Outstation B,1,2023-03-31,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",117,14,7,6,1,105,medium,1,Synthetic ranger field report,1,1,1,1,0,1,0,0,1,1,0,1,0
+420,Croker Camp,1,2023-04-06,ranger,Bangkerreng,medium,difficult,"storm_tail, wet_ground, dog_movement_high",21,5,6,5,1,160,high,1,Synthetic ranger field report,7,1,0,1,0,1,1,0,0,1,1,1,0
+193,Milingimbi,1,2023-04-09,ranger,Bangkerreng,medium,difficult,"storm_tail, wet_ground",82,15,6,8,0,210,low,1,Synthetic ranger field report,7,1,1,1,0,1,1,1,1,1,0,1,1
+286,Minjilang,1,2023-04-16,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water, dog_movement_high",89,13,8,6,0,230,high,1,Synthetic ranger field report,1,1,1,1,1,1,1,1,1,0,0,1,0
+104,Warruwi,1,2023-04-21,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water, dog_movement_high",100,20,2,6,1,180,high,1,Synthetic ranger field report,5,1,0,1,1,0,1,1,0,0,1,1,1
+147,Jabiru,1,2023-04-23,ranger,Bangkerreng,medium,easy,"storm_tail, wet_ground",89,15,2,4,0,40,low,0,Synthetic ranger field report,1,1,1,0,0,0,1,0,1,1,1,1,1
+60,Gunbalanya,1,2023-04-25,ranger,Bangkerreng,medium,moderate,"storm_tail, wet_ground",55,9,5,7,3,70,medium,1,Synthetic ranger field report,2,1,0,1,1,1,0,0,1,0,1,0,0
+240,Ramingining,1,2023-04-27,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water",62,9,4,6,0,190,medium,0,Synthetic ranger field report,1,1,0,1,1,1,1,1,1,1,1,0,1
+332,Outstation A,1,2023-05-01,ranger,Yekke,low,moderate,"cooler_mornings, surface_water_remaining",68,13,5,6,1,95,medium,0,Synthetic ranger field report,1,1,0,0,1,0,1,1,0,1,0,0,1
+16,Maningrida,1,2023-05-02,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",180,19,4,2,1,120,low,0,Synthetic ranger field report,1,1,0,1,0,1,0,1,0,0,0,0,0
+376,Outstation B,1,2023-05-08,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",89,9,4,4,0,105,high,0,Synthetic ranger field report,1,1,1,0,1,0,1,1,1,1,1,0,1
+421,Croker Camp,1,2023-05-12,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",20,3,4,5,1,160,low,1,Synthetic ranger field report,8,1,0,1,1,0,0,1,0,1,0,0,1
+194,Milingimbi,1,2023-05-14,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",112,11,5,4,0,210,high,1,Synthetic ranger field report,8,1,1,1,0,1,1,1,1,1,0,1,0
+287,Minjilang,1,2023-05-18,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",64,10,2,3,0,230,medium,0,Synthetic ranger field report,1,0,1,1,0,0,0,0,0,1,1,1,0
+105,Warruwi,1,2023-05-25,waldhep_staff,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",39,4,4,6,2,180,high,1,Synthetic ranger field report,6,1,1,1,1,0,1,1,0,1,1,0,1
+148,Jabiru,1,2023-05-25,ranger,Yekke,medium,easy,"cooler_mornings, surface_water_remaining, dog_movement_high",47,2,5,2,1,40,high,0,Synthetic ranger field report,2,1,0,0,0,1,0,0,0,0,1,0,1
+241,Ramingining,1,2023-05-25,veterinarian,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",113,8,4,2,0,190,low,0,Synthetic ranger field report,3,0,1,0,1,0,0,0,1,0,0,1,1
+61,Gunbalanya,1,2023-05-27,waldhep_staff,Yekke,high,moderate,"cooler_mornings, surface_water_remaining, standing_water",110,18,2,8,2,70,medium,1,Synthetic ranger field report,1,1,1,0,1,0,1,0,1,1,1,0,1
+333,Outstation A,1,2023-05-31,ranger,Yekke,medium,moderate,"cooler_mornings, surface_water_remaining",76,12,4,7,1,95,low,1,Synthetic ranger field report,2,1,1,0,1,0,1,1,0,1,0,0,0
+17,Maningrida,1,2023-06-07,ranger,Yekke,high,difficult,"cooler_mornings, surface_water_remaining, standing_water, dog_movement_high",62,11,4,6,0,120,high,0,Synthetic ranger field report,3,1,1,1,0,0,0,1,1,1,1,1,1
+377,Outstation B,1,2023-06-07,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",89,13,3,5,0,105,high,0,Synthetic ranger field report,3,0,1,0,1,1,0,0,0,1,0,0,1
+422,Croker Camp,1,2023-06-13,ranger,Yekke,high,difficult,"cooler_mornings, surface_water_remaining, standing_water, dog_movement_high",20,0,5,7,1,160,high,1,Synthetic ranger field report,9,1,1,1,1,0,1,0,0,0,1,1,0
+195,Milingimbi,1,2023-06-14,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",36,3,5,2,1,210,high,0,Synthetic ranger field report,1,1,0,1,0,1,1,0,0,0,0,1,0
+288,Minjilang,1,2023-06-14,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",48,1,4,2,2,230,medium,1,Synthetic ranger field report,2,1,1,1,1,1,0,1,0,0,0,1,1
+106,Warruwi,1,2023-06-22,waldhep_staff,Yekke,low,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",94,7,3,1,0,180,high,0,Synthetic ranger field report,1,0,0,0,0,1,0,1,0,0,0,0,0
+242,Ramingining,1,2023-06-26,ranger,Yekke,low,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",77,17,6,3,0,190,high,1,Synthetic ranger field report,4,1,0,0,1,0,1,0,0,1,1,1,1
+149,Jabiru,1,2023-06-29,ranger,Yekke,high,easy,"cooler_mornings, surface_water_remaining, standing_water",47,6,1,8,0,40,medium,1,Synthetic ranger field report,3,1,0,0,1,0,0,1,1,0,0,1,0
+62,Gunbalanya,1,2023-07-01,waldhep_staff,Wurrkeng,low,moderate,"cool_dry, low_humidity, dog_movement_high",52,5,2,2,0,70,high,0,Synthetic ranger field report,1,1,0,0,1,1,1,1,0,0,0,0,1
+378,Outstation B,1,2023-07-09,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",38,1,5,2,0,105,medium,1,Synthetic ranger field report,5,1,0,0,0,1,0,0,0,1,1,1,1
+423,Croker Camp,1,2023-07-09,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",60,7,4,2,1,160,medium,1,Synthetic ranger field report,9,1,1,1,0,0,1,1,0,0,0,0,1
+334,Outstation A,1,2023-07-10,ranger,Wurrkeng,low,moderate,"cool_dry, low_humidity",141,11,4,3,0,95,low,0,Synthetic ranger field report,2,1,1,0,0,1,0,1,0,1,0,0,1
+18,Maningrida,1,2023-07-12,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",135,15,1,3,0,120,high,1,Synthetic ranger field report,5,1,0,1,0,1,1,0,1,1,0,0,0
+196,Milingimbi,1,2023-07-12,ranger,Wurrkeng,high,difficult,"cool_dry, low_humidity, standing_water, dog_movement_high",76,8,1,4,2,210,high,1,Synthetic ranger field report,2,0,1,0,0,0,0,0,0,1,1,1,0
+107,Warruwi,1,2023-07-21,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",145,20,4,5,1,180,high,0,Synthetic ranger field report,3,1,0,1,1,0,0,0,1,1,1,0,1
+289,Minjilang,1,2023-07-21,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",76,2,3,2,0,230,high,0,Synthetic ranger field report,4,1,0,1,1,0,1,1,1,1,0,1,1
+243,Ramingining,1,2023-07-23,waldhep_staff,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",130,11,2,4,1,190,high,0,Synthetic ranger field report,4,1,0,0,0,1,0,1,1,1,1,0,1
+150,Jabiru,1,2023-07-30,ranger,Wurrkeng,low,easy,"cool_dry, low_humidity",47,2,3,2,0,40,low,1,Synthetic ranger field report,5,0,1,0,1,0,0,0,1,0,0,1,1
+63,Gunbalanya,1,2023-08-01,ranger,Wurrkeng,low,moderate,"cool_dry, low_humidity, dog_movement_high",105,11,2,5,0,70,high,0,Synthetic ranger field report,2,0,0,0,0,0,0,0,1,0,0,0,1
+424,Croker Camp,1,2023-08-03,veterinarian,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",37,3,4,1,1,160,high,0,Synthetic ranger field report,1,1,1,1,1,1,0,1,0,0,0,0,0
+197,Milingimbi,1,2023-08-16,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",116,6,5,3,1,210,high,0,Synthetic ranger field report,1,0,0,0,1,1,1,0,0,1,1,1,0
+290,Minjilang,1,2023-08-16,waldhep_staff,Wurrkeng,low,difficult,"cool_dry, low_humidity",20,1,2,4,0,230,low,0,Synthetic ranger field report,4,0,0,0,0,0,0,1,1,0,0,0,0
+335,Outstation A,1,2023-08-16,ranger,Wurrkeng,low,moderate,"cool_dry, low_humidity, dog_movement_high",35,3,3,2,3,95,high,1,Synthetic ranger field report,4,0,1,1,1,0,0,0,0,0,0,0,0
+379,Outstation B,1,2023-08-16,veterinarian,Wurrkeng,medium,difficult,"cool_dry, low_humidity",93,10,3,5,1,105,medium,0,Synthetic ranger field report,1,1,1,0,1,1,0,1,0,1,1,1,1
+19,Maningrida,1,2023-08-20,waldhep_staff,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",75,8,3,1,2,120,high,1,Synthetic ranger field report,7,1,0,1,1,0,0,1,1,1,0,0,1
+244,Ramingining,1,2023-08-23,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",102,2,3,2,1,190,medium,0,Synthetic ranger field report,4,0,1,1,0,0,0,0,1,1,0,0,0
+64,Gunbalanya,1,2023-08-28,waldhep_staff,Wurrkeng,low,moderate,"cool_dry, low_humidity",24,1,3,2,1,70,medium,0,Synthetic ranger field report,3,1,0,1,0,0,1,0,1,0,0,0,1
+151,Jabiru,1,2023-08-28,veterinarian,Wurrkeng,low,easy,"cool_dry, low_humidity",51,6,3,1,1,40,low,0,Synthetic ranger field report,1,0,0,0,0,0,0,1,0,0,1,0,0
+425,Croker Camp,1,2023-08-28,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",26,3,2,4,0,160,low,0,Synthetic ranger field report,2,0,1,1,1,0,0,0,1,0,1,0,0
+108,Warruwi,1,2023-08-30,waldhep_staff,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",46,7,5,1,0,180,high,0,Synthetic ranger field report,4,0,0,0,0,0,1,1,0,1,0,0,0
+291,Minjilang,1,2023-09-13,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",20,1,4,2,0,230,low,0,Synthetic ranger field report,4,0,1,0,1,1,0,0,1,0,1,0,1
+198,Milingimbi,1,2023-09-17,ranger,Kurrung,medium,difficult,"hot_dry, thunderclouds_building, dog_movement_high",53,6,4,4,0,210,high,0,Synthetic ranger field report,2,1,0,1,1,0,0,0,1,1,1,0,1
+336,Outstation A,1,2023-09-17,veterinarian,Kurrung,low,moderate,"hot_dry, thunderclouds_building",113,17,4,4,2,95,medium,1,Synthetic ranger field report,5,1,1,1,0,1,1,1,0,1,0,0,1
+380,Outstation B,1,2023-09-21,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",73,6,4,4,2,105,medium,1,Synthetic ranger field report,2,0,1,1,0,1,0,0,0,1,1,0,1
+245,Ramingining,1,2023-09-23,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",87,9,3,3,0,190,high,1,Synthetic ranger field report,5,1,0,0,1,1,0,0,0,0,1,0,1
+109,Warruwi,1,2023-09-25,ranger,Kurrung,medium,difficult,"hot_dry, thunderclouds_building, dog_movement_high",104,16,4,6,1,180,high,0,Synthetic ranger field report,4,1,0,1,0,1,0,1,1,0,1,1,1
+20,Maningrida,1,2023-09-28,waldhep_staff,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",54,4,4,3,2,120,high,1,Synthetic ranger field report,9,1,0,1,1,1,1,1,0,1,1,0,0
+426,Croker Camp,1,2023-10-01,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",60,5,3,4,0,160,medium,0,Synthetic ranger field report,3,1,1,1,0,1,0,1,1,0,1,0,0
+65,Gunbalanya,1,2023-10-06,ranger,Kurrung,medium,moderate,"hot_dry, thunderclouds_building",43,7,4,5,0,70,medium,0,Synthetic ranger field report,3,1,1,1,1,1,0,1,1,1,0,1,0
+152,Jabiru,1,2023-10-07,waldhep_staff,Kurrung,low,easy,"hot_dry, thunderclouds_building",83,12,4,3,0,40,low,0,Synthetic ranger field report,2,1,0,0,1,0,1,1,0,1,0,0,0
+292,Minjilang,1,2023-10-13,waldhep_staff,Kurrung,medium,difficult,"hot_dry, thunderclouds_building, dog_movement_high",61,5,3,5,0,230,high,0,Synthetic ranger field report,4,1,0,0,0,0,1,0,0,1,0,0,1
+337,Outstation A,1,2023-10-18,waldhep_staff,Kurrung,low,moderate,"hot_dry, thunderclouds_building, dog_movement_high",23,2,2,2,0,95,high,0,Synthetic ranger field report,1,1,0,0,0,1,1,0,0,1,1,0,1
+381,Outstation B,1,2023-10-18,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",157,28,2,3,0,105,high,0,Synthetic ranger field report,3,0,1,1,0,0,0,0,1,1,0,1,1
+199,Milingimbi,1,2023-10-23,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",90,12,7,2,1,210,high,1,Synthetic ranger field report,3,1,1,1,1,0,1,0,1,1,0,1,0
+21,Maningrida,1,2023-10-25,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",24,3,2,2,1,120,medium,1,Synthetic ranger field report,9,1,1,1,0,0,1,0,0,1,1,1,1
+110,Warruwi,1,2023-10-27,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",36,3,4,3,2,180,high,1,Synthetic ranger field report,6,0,0,0,1,1,1,1,0,1,1,0,1
+246,Ramingining,1,2023-10-30,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",76,7,2,3,0,190,low,0,Synthetic ranger field report,1,1,0,0,1,1,1,0,1,1,0,1,0
+293,Minjilang,1,2023-11-09,veterinarian,Kunumeleng,high,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water",42,7,10,8,2,230,medium,1,Synthetic ranger field report,4,0,0,0,0,1,0,0,0,0,1,1,0
+427,Croker Camp,1,2023-11-09,ranger,Kunumeleng,high,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water, dog_movement_high",23,3,7,7,1,160,high,1,Synthetic ranger field report,3,1,1,1,1,0,1,0,1,0,0,0,0
+153,Jabiru,1,2023-11-11,ranger,Kunumeleng,high,easy,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water, dog_movement_high",30,6,9,7,2,40,high,1,Synthetic ranger field report,3,1,1,1,1,0,0,1,0,0,1,0,0
+66,Gunbalanya,1,2023-11-14,waldhep_staff,Kunumeleng,low,moderate,"humid_build_up, afternoon_storms, mosquitoes_rising",132,15,5,4,0,70,medium,0,Synthetic ranger field report,4,1,1,0,0,1,1,1,0,0,0,0,0
+200,Milingimbi,1,2023-11-17,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising",52,6,9,4,0,210,low,1,Synthetic ranger field report,5,1,1,1,0,0,0,1,0,1,1,1,0
+22,Maningrida,1,2023-11-19,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising",36,4,6,4,0,120,medium,1,Synthetic ranger field report,1,1,1,0,1,1,1,1,1,1,0,1,0
+111,Warruwi,1,2023-11-25,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, dog_movement_high",42,7,6,1,0,180,high,1,Synthetic ranger field report,1,0,1,1,0,1,1,0,1,0,1,0,0
+338,Outstation A,1,2023-11-25,veterinarian,Kunumeleng,medium,moderate,"humid_build_up, afternoon_storms, mosquitoes_rising, dog_movement_high",20,2,9,5,1,95,high,1,Synthetic ranger field report,3,1,0,1,1,1,0,1,0,1,0,0,0
+382,Outstation B,1,2023-11-27,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising",39,1,4,5,0,105,low,0,Synthetic ranger field report,3,1,0,1,1,1,1,1,0,1,1,1,0
+247,Ramingining,1,2023-12-04,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",60,9,4,6,0,190,high,0,Synthetic ranger field report,3,1,0,1,1,1,0,1,1,0,0,1,1
+294,Minjilang,1,2023-12-08,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",85,9,3,10,0,230,medium,1,Synthetic ranger field report,6,1,1,1,1,0,0,1,0,1,1,0,1
+154,Jabiru,1,2023-12-09,ranger,Kudjewk,high,easy,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",36,7,0,6,0,40,low,0,Synthetic ranger field report,3,0,1,0,1,0,0,0,0,1,0,1,0
+67,Gunbalanya,1,2023-12-14,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",86,19,8,9,0,70,low,1,Synthetic ranger field report,5,1,1,1,0,0,1,0,0,1,0,0,1
+428,Croker Camp,1,2023-12-14,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",24,4,4,3,1,160,high,0,Synthetic ranger field report,4,1,1,1,0,0,0,0,1,1,0,1,1
+201,Milingimbi,1,2023-12-15,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",81,11,6,7,1,210,low,1,Synthetic ranger field report,6,1,1,1,1,1,0,0,1,1,1,1,0
+339,Outstation A,1,2023-12-25,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",44,5,5,6,2,95,medium,1,Synthetic ranger field report,1,1,0,1,1,1,0,0,0,0,1,1,1
+383,Outstation B,1,2023-12-26,ranger,Kudjewk,low,difficult,"monsoon_building, flooded_ground, mosquitoes_high",68,14,4,2,0,105,medium,0,Synthetic ranger field report,3,1,1,1,1,0,0,1,0,1,0,0,1
+23,Maningrida,1,2023-12-27,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",71,10,12,10,1,120,high,1,Synthetic ranger field report,2,1,1,1,1,1,0,1,1,1,1,0,0
+112,Warruwi,1,2023-12-29,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",55,3,6,7,1,180,medium,1,Synthetic ranger field report,1,0,1,1,1,0,1,0,0,0,1,0,1
+248,Ramingining,1,2024-01-03,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",126,22,8,7,1,190,high,1,Synthetic ranger field report,4,1,1,1,1,1,1,1,1,1,1,0,1
+295,Minjilang,1,2024-01-07,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",40,3,8,4,2,230,high,1,Synthetic ranger field report,1,1,1,1,1,1,0,1,0,0,0,1,0
+202,Milingimbi,1,2024-01-09,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",45,6,3,5,0,210,medium,0,Synthetic ranger field report,1,1,0,1,1,0,1,1,0,0,0,1,1
+155,Jabiru,1,2024-01-12,waldhep_staff,Kudjewk,medium,easy,"monsoon_building, flooded_ground, mosquitoes_high",97,14,5,5,1,40,medium,0,Synthetic ranger field report,3,0,0,0,0,0,0,1,0,0,0,1,1
+68,Gunbalanya,1,2024-01-19,ranger,Kudjewk,medium,moderate,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",88,18,6,6,1,70,high,1,Synthetic ranger field report,6,1,1,1,0,1,0,0,0,1,0,0,1
+429,Croker Camp,1,2024-01-20,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",41,7,8,4,1,160,high,1,Synthetic ranger field report,6,1,1,1,0,0,0,0,1,1,1,1,1
+384,Outstation B,1,2024-01-24,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",88,17,7,7,1,105,low,1,Synthetic ranger field report,3,1,0,1,1,0,0,0,0,1,1,1,0
+24,Maningrida,1,2024-01-26,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",120,24,5,8,0,120,medium,1,Synthetic ranger field report,1,1,1,0,0,0,1,0,0,1,1,1,1
+340,Outstation A,1,2024-01-30,ranger,Kudjewk,medium,moderate,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",112,15,7,4,1,95,high,1,Synthetic ranger field report,2,1,0,0,0,1,0,0,1,0,0,1,0
+113,Warruwi,1,2024-02-03,ranger,Kudjewk,low,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",49,8,7,3,1,180,high,1,Synthetic ranger field report,2,1,1,0,1,1,0,1,1,1,1,0,1
+203,Milingimbi,1,2024-02-07,ranger,Kudjewk,low,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",90,9,5,4,1,210,high,0,Synthetic ranger field report,3,0,0,0,0,1,1,1,0,0,0,1,0
+156,Jabiru,1,2024-02-08,waldhep_staff,Kudjewk,low,easy,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",50,10,7,2,1,40,high,1,Synthetic ranger field report,4,1,1,0,1,0,0,0,0,0,1,0,0
+296,Minjilang,1,2024-02-08,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",59,11,8,8,0,230,high,1,Synthetic ranger field report,1,1,0,1,1,1,1,1,1,1,1,1,0
+249,Ramingining,1,2024-02-12,waldhep_staff,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",84,11,5,4,3,190,low,1,Synthetic ranger field report,5,0,1,0,0,0,1,1,1,1,0,1,1
+69,Gunbalanya,1,2024-02-22,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",40,3,3,4,0,70,high,1,Synthetic ranger field report,6,1,0,1,0,0,1,0,0,0,1,0,1
+430,Croker Camp,1,2024-02-28,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",55,9,5,12,2,160,high,1,Synthetic ranger field report,6,1,1,1,1,0,1,0,1,1,1,0,1
+25,Maningrida,1,2024-03-01,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",82,6,5,3,0,120,low,0,Synthetic ranger field report,1,0,1,0,1,0,1,0,0,1,0,1,1
+385,Outstation B,1,2024-03-04,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",58,12,5,6,2,105,medium,1,Synthetic ranger field report,4,0,1,1,1,1,0,0,0,1,0,1,1
+157,Jabiru,1,2024-03-06,ranger,Kudjewk,low,easy,"monsoon_building, flooded_ground, mosquitoes_high",82,17,4,4,2,40,medium,1,Synthetic ranger field report,5,1,0,1,1,0,0,0,1,1,1,0,0
+204,Milingimbi,1,2024-03-06,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",83,12,10,8,2,210,high,1,Synthetic ranger field report,4,1,1,1,1,1,1,1,0,1,1,1,1
+341,Outstation A,1,2024-03-10,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",88,19,11,3,1,95,high,1,Synthetic ranger field report,4,1,1,0,1,0,0,1,0,0,1,1,0
+114,Warruwi,1,2024-03-11,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",32,5,12,10,2,180,high,1,Synthetic ranger field report,1,1,1,1,1,1,1,1,1,1,0,1,1
+250,Ramingining,1,2024-03-15,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",30,2,6,7,0,190,high,1,Synthetic ranger field report,7,0,0,0,0,1,1,1,1,1,0,1,0
+297,Minjilang,1,2024-03-16,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",49,2,6,4,1,230,high,1,Synthetic ranger field report,3,1,0,1,1,0,1,1,1,1,0,1,0
+431,Croker Camp,1,2024-03-27,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",24,3,12,5,1,160,medium,1,Synthetic ranger field report,1,0,1,1,1,1,1,1,1,1,0,0,0
+70,Gunbalanya,1,2024-03-30,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",59,6,6,10,2,70,low,1,Synthetic ranger field report,7,0,1,1,1,1,1,1,1,1,1,1,0
+205,Milingimbi,1,2024-03-31,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",60,11,9,7,0,210,high,1,Synthetic ranger field report,5,0,1,0,1,0,1,1,0,1,1,0,0
+26,Maningrida,1,2024-04-07,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water, dog_movement_high",20,3,9,4,2,120,high,1,Synthetic ranger field report,2,1,1,0,1,0,1,0,0,0,1,0,1
+158,Jabiru,1,2024-04-07,waldhep_staff,Bangkerreng,high,easy,"storm_tail, wet_ground, standing_water, dog_movement_high",49,4,7,6,3,40,high,1,Synthetic ranger field report,5,1,0,1,1,0,1,1,0,1,0,0,1
+342,Outstation A,1,2024-04-08,ranger,Bangkerreng,medium,moderate,"storm_tail, wet_ground",44,2,4,5,2,95,medium,1,Synthetic ranger field report,1,0,1,1,0,0,1,1,0,1,0,0,0
+386,Outstation B,1,2024-04-10,veterinarian,Bangkerreng,medium,difficult,"storm_tail, wet_ground, dog_movement_high",95,10,4,5,0,105,high,0,Synthetic ranger field report,1,1,0,1,1,1,1,0,1,0,1,0,1
+115,Warruwi,1,2024-04-13,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water, dog_movement_high",85,13,5,7,0,180,high,1,Synthetic ranger field report,1,1,1,1,1,0,0,1,1,1,0,1,1
+298,Minjilang,1,2024-04-13,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water",42,5,6,7,1,230,medium,1,Synthetic ranger field report,3,1,1,0,1,1,1,0,1,1,1,1,1
+251,Ramingining,1,2024-04-22,ranger,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water",46,7,6,12,1,190,medium,1,Synthetic ranger field report,8,1,0,0,1,1,0,1,1,1,0,0,1
+432,Croker Camp,1,2024-04-23,veterinarian,Bangkerreng,high,difficult,"storm_tail, wet_ground, standing_water",49,5,6,5,0,160,medium,1,Synthetic ranger field report,3,1,1,1,0,0,1,0,0,1,0,1,1
+206,Milingimbi,1,2024-04-26,ranger,Bangkerreng,medium,difficult,"storm_tail, wet_ground",75,6,5,4,0,210,low,1,Synthetic ranger field report,5,1,1,1,1,1,0,1,1,1,1,0,1
+159,Jabiru,1,2024-05-04,veterinarian,Yekke,low,easy,"cooler_mornings, surface_water_remaining, dog_movement_high",65,9,3,0,1,40,high,1,Synthetic ranger field report,6,0,1,1,1,1,1,0,0,0,1,1,1
+387,Outstation B,1,2024-05-05,ranger,Yekke,high,difficult,"cooler_mornings, surface_water_remaining, standing_water, dog_movement_high",51,11,7,6,1,105,high,1,Synthetic ranger field report,2,1,1,0,1,0,1,1,1,1,0,1,1
+71,Gunbalanya,1,2024-05-07,ranger,Yekke,low,moderate,"cooler_mornings, surface_water_remaining, dog_movement_high",116,10,7,5,0,70,high,1,Synthetic ranger field report,8,1,1,1,1,0,1,1,0,0,0,1,1
+27,Maningrida,1,2024-05-09,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",62,6,4,3,0,120,medium,0,Synthetic ranger field report,4,1,1,1,1,0,1,1,0,0,0,0,1
+343,Outstation A,1,2024-05-10,ranger,Yekke,low,moderate,"cooler_mornings, surface_water_remaining, dog_movement_high",132,11,2,4,0,95,high,0,Synthetic ranger field report,2,0,1,1,0,0,0,0,0,0,1,1,1
+299,Minjilang,1,2024-05-17,waldhep_staff,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",32,2,2,2,0,230,medium,1,Synthetic ranger field report,5,1,0,1,1,1,1,0,0,0,0,0,0
+116,Warruwi,1,2024-05-20,veterinarian,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",101,10,2,3,1,180,low,0,Synthetic ranger field report,1,1,0,0,1,0,1,1,0,1,1,0,0
+252,Ramingining,1,2024-05-29,waldhep_staff,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",43,3,4,3,0,190,medium,0,Synthetic ranger field report,1,1,0,0,1,0,0,0,1,0,1,1,0
+433,Croker Camp,1,2024-05-29,veterinarian,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining, dog_movement_high",27,1,8,3,2,160,high,1,Synthetic ranger field report,4,1,0,1,1,0,0,0,0,1,1,1,1
+388,Outstation B,1,2024-06-02,veterinarian,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",61,8,5,1,2,105,medium,1,Synthetic ranger field report,1,0,1,0,1,0,1,0,0,0,0,1,1
+72,Gunbalanya,1,2024-06-04,ranger,Yekke,medium,moderate,"cooler_mornings, surface_water_remaining",89,11,4,4,0,70,medium,0,Synthetic ranger field report,1,1,0,0,0,0,0,1,1,1,0,0,1
+207,Milingimbi,1,2024-06-04,ranger,Yekke,high,difficult,"cooler_mornings, surface_water_remaining, standing_water, dog_movement_high",105,9,3,8,1,210,high,1,Synthetic ranger field report,5,1,1,1,1,0,0,0,1,1,1,1,1
+28,Maningrida,1,2024-06-06,ranger,Yekke,medium,difficult,"cooler_mornings, surface_water_remaining",60,6,3,5,1,120,medium,1,Synthetic ranger field report,5,0,0,0,1,1,1,1,1,0,1,0,1
+160,Jabiru,1,2024-06-10,waldhep_staff,Yekke,medium,easy,"cooler_mornings, surface_water_remaining",20,2,3,4,0,40,low,0,Synthetic ranger field report,1,1,0,1,0,0,1,0,1,0,1,1,1
+300,Minjilang,1,2024-06-11,ranger,Yekke,high,difficult,"cooler_mornings, surface_water_remaining, standing_water",39,3,2,10,1,230,medium,1,Synthetic ranger field report,6,1,0,1,0,1,1,0,1,0,0,0,0
+344,Outstation A,1,2024-06-13,ranger,Yekke,high,moderate,"cooler_mornings, surface_water_remaining, standing_water",105,15,6,7,0,95,medium,1,Synthetic ranger field report,2,1,0,1,1,1,1,1,0,0,0,1,0
+117,Warruwi,1,2024-06-23,veterinarian,Yekke,high,difficult,"cooler_mornings, surface_water_remaining, standing_water",53,9,4,5,0,180,medium,0,Synthetic ranger field report,2,0,0,0,0,1,0,1,0,0,0,1,1
+434,Croker Camp,1,2024-06-30,waldhep_staff,Yekke,low,difficult,"cooler_mornings, surface_water_remaining",36,4,3,3,2,160,medium,1,Synthetic ranger field report,1,1,1,1,0,0,0,0,1,0,0,1,0
+29,Maningrida,1,2024-07-03,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",89,2,4,3,0,120,high,1,Synthetic ranger field report,7,1,0,1,0,1,1,0,0,1,0,1,0
+73,Gunbalanya,1,2024-07-03,ranger,Wurrkeng,low,moderate,"cool_dry, low_humidity",74,8,3,1,2,70,medium,1,Synthetic ranger field report,2,0,1,1,0,0,0,0,0,0,0,0,1
+253,Ramingining,1,2024-07-08,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",42,4,4,3,0,190,high,0,Synthetic ranger field report,1,0,0,0,0,0,1,0,1,1,0,0,1
+389,Outstation B,1,2024-07-10,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity",37,3,1,7,0,105,medium,1,Synthetic ranger field report,1,1,0,0,0,0,1,0,0,1,1,0,0
+208,Milingimbi,1,2024-07-11,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",157,7,3,4,2,210,high,1,Synthetic ranger field report,6,0,1,1,0,0,1,1,1,1,0,1,1
+345,Outstation A,1,2024-07-15,ranger,Wurrkeng,low,moderate,"cool_dry, low_humidity",85,6,2,3,0,95,medium,0,Synthetic ranger field report,2,0,0,0,1,0,1,0,0,0,0,0,0
+301,Minjilang,1,2024-07-16,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",43,4,2,2,3,230,high,1,Synthetic ranger field report,8,1,1,1,1,0,1,1,0,1,0,1,1
+161,Jabiru,1,2024-07-17,ranger,Wurrkeng,low,easy,"cool_dry, low_humidity",94,6,3,2,2,40,low,1,Synthetic ranger field report,2,1,1,0,0,0,1,0,0,1,0,0,0
+118,Warruwi,1,2024-07-30,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity",92,7,3,7,1,180,medium,1,Synthetic ranger field report,3,0,0,1,0,1,0,1,1,1,0,1,1
+30,Maningrida,1,2024-08-03,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity",52,6,3,3,0,120,low,1,Synthetic ranger field report,8,1,0,1,0,0,0,0,0,0,1,0,1
+254,Ramingining,1,2024-08-03,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",134,14,4,1,1,190,high,0,Synthetic ranger field report,2,1,0,0,0,0,1,1,0,0,0,0,0
+74,Gunbalanya,1,2024-08-07,waldhep_staff,Wurrkeng,low,moderate,"cool_dry, low_humidity, dog_movement_high",166,14,3,0,1,70,high,0,Synthetic ranger field report,2,0,0,0,0,1,0,0,0,1,0,1,0
+390,Outstation B,1,2024-08-07,waldhep_staff,Wurrkeng,low,difficult,"cool_dry, low_humidity, dog_movement_high",74,8,6,2,0,105,high,1,Synthetic ranger field report,3,0,1,0,0,0,0,0,1,0,0,0,1
+435,Croker Camp,1,2024-08-07,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",20,2,3,3,1,160,medium,0,Synthetic ranger field report,2,0,1,1,0,0,1,1,0,0,1,1,1
+302,Minjilang,1,2024-08-14,ranger,Wurrkeng,medium,difficult,"cool_dry, low_humidity, dog_movement_high",103,12,4,4,0,230,high,1,Synthetic ranger field report,9,1,0,1,1,0,1,1,0,0,1,0,1
+162,Jabiru,1,2024-08-16,veterinarian,Wurrkeng,low,easy,"cool_dry, low_humidity",31,3,1,4,0,40,low,0,Synthetic ranger field report,1,0,0,1,1,1,0,0,0,1,0,1,0
+209,Milingimbi,1,2024-08-20,ranger,Wurrkeng,low,difficult,"cool_dry, low_humidity",58,6,3,2,1,210,medium,1,Synthetic ranger field report,6,0,1,1,1,1,1,1,0,1,1,1,1
+346,Outstation A,1,2024-08-21,ranger,Wurrkeng,low,moderate,"cool_dry, low_humidity",92,9,4,3,0,95,medium,0,Synthetic ranger field report,2,0,1,0,1,0,0,0,0,0,1,0,0
+75,Gunbalanya,1,2024-09-04,ranger,Kurrung,high,moderate,"hot_dry, thunderclouds_building, standing_water",50,3,4,2,2,70,medium,1,Synthetic ranger field report,3,1,1,1,0,0,1,1,0,1,1,0,0
+31,Maningrida,1,2024-09-05,ranger,Kurrung,medium,difficult,"hot_dry, thunderclouds_building",91,8,5,6,0,120,medium,0,Synthetic ranger field report,1,1,1,1,1,1,1,1,0,0,0,0,0
+119,Warruwi,1,2024-09-06,waldhep_staff,Kurrung,medium,difficult,"hot_dry, thunderclouds_building",77,4,3,6,1,180,medium,0,Synthetic ranger field report,1,1,1,1,1,1,0,0,1,1,1,1,1
+255,Ramingining,1,2024-09-06,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",26,2,6,3,0,190,high,1,Synthetic ranger field report,3,0,1,1,1,1,0,0,0,1,0,0,0
+391,Outstation B,1,2024-09-09,waldhep_staff,Kurrung,low,difficult,"hot_dry, thunderclouds_building",83,7,4,3,0,105,medium,0,Synthetic ranger field report,4,0,1,0,0,1,0,1,0,0,0,0,1
+303,Minjilang,1,2024-09-11,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",20,3,1,2,1,230,low,1,Synthetic ranger field report,9,1,0,0,1,1,0,0,0,1,1,1,0
+436,Croker Camp,1,2024-09-13,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",34,3,3,4,0,160,medium,0,Synthetic ranger field report,4,0,0,1,0,1,1,1,0,0,1,0,1
+163,Jabiru,1,2024-09-16,ranger,Kurrung,low,easy,"hot_dry, thunderclouds_building",56,5,1,2,1,40,medium,0,Synthetic ranger field report,2,0,0,0,1,0,0,1,0,0,0,0,1
+210,Milingimbi,1,2024-09-19,veterinarian,Kurrung,low,difficult,"hot_dry, thunderclouds_building, dog_movement_high",70,8,3,1,1,210,high,1,Synthetic ranger field report,7,1,1,1,1,1,1,0,1,1,0,1,1
+347,Outstation A,1,2024-09-27,waldhep_staff,Kurrung,medium,moderate,"hot_dry, thunderclouds_building, dog_movement_high",93,7,4,4,0,95,high,0,Synthetic ranger field report,4,1,0,1,0,0,1,1,0,1,0,1,0
+256,Ramingining,1,2024-10-04,waldhep_staff,Kurrung,medium,difficult,"hot_dry, thunderclouds_building, dog_movement_high",176,13,4,3,2,190,high,1,Synthetic ranger field report,5,1,0,1,0,1,0,1,0,1,1,1,1
+76,Gunbalanya,1,2024-10-07,ranger,Kurrung,medium,moderate,"hot_dry, thunderclouds_building",37,5,3,4,1,70,medium,0,Synthetic ranger field report,1,1,1,0,0,1,1,0,1,0,0,0,0
+32,Maningrida,1,2024-10-08,waldhep_staff,Kurrung,low,difficult,"hot_dry, thunderclouds_building",21,1,4,4,0,120,low,0,Synthetic ranger field report,1,0,0,1,1,1,1,1,0,0,1,0,1
+120,Warruwi,1,2024-10-10,ranger,Kurrung,medium,difficult,"hot_dry, thunderclouds_building, dog_movement_high",53,4,0,4,1,180,high,0,Synthetic ranger field report,1,0,1,0,0,0,0,1,1,0,1,1,0
+164,Jabiru,1,2024-10-13,ranger,Kurrung,low,easy,"hot_dry, thunderclouds_building",51,5,6,3,1,40,low,1,Synthetic ranger field report,3,1,1,1,1,0,0,0,0,0,0,0,1
+437,Croker Camp,1,2024-10-13,waldhep_staff,Kurrung,medium,difficult,"hot_dry, thunderclouds_building",35,2,3,5,0,160,low,0,Synthetic ranger field report,4,1,0,1,1,0,1,0,1,1,0,0,1
+304,Minjilang,1,2024-10-14,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",74,5,3,4,1,230,medium,1,Synthetic ranger field report,9,1,1,1,1,0,1,1,0,0,1,0,1
+392,Outstation B,1,2024-10-16,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",83,9,5,3,1,105,medium,1,Synthetic ranger field report,5,1,0,0,0,1,1,1,1,1,0,1,0
+211,Milingimbi,1,2024-10-20,ranger,Kurrung,medium,difficult,"hot_dry, thunderclouds_building, dog_movement_high",125,12,3,1,1,210,high,1,Synthetic ranger field report,8,1,0,0,1,1,1,1,0,1,1,0,0
+257,Ramingining,1,2024-10-31,ranger,Kurrung,low,difficult,"hot_dry, thunderclouds_building",123,11,5,5,0,190,low,1,Synthetic ranger field report,7,1,1,1,0,0,0,1,0,1,1,1,0
+348,Outstation A,1,2024-11-02,ranger,Kunumeleng,medium,moderate,"humid_build_up, afternoon_storms, mosquitoes_rising, dog_movement_high",82,15,5,8,0,95,high,1,Synthetic ranger field report,4,0,1,1,0,0,1,0,0,1,1,1,1
+33,Maningrida,1,2024-11-04,ranger,Kunumeleng,high,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water",180,13,9,8,1,120,low,1,Synthetic ranger field report,2,1,1,1,1,1,1,1,0,1,1,0,0
+77,Gunbalanya,1,2024-11-10,ranger,Kunumeleng,high,moderate,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water, dog_movement_high",55,8,5,7,0,70,high,1,Synthetic ranger field report,1,1,0,0,1,0,0,0,1,1,0,1,0
+121,Warruwi,1,2024-11-11,ranger,Kunumeleng,high,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, standing_water",96,13,2,5,4,180,medium,1,Synthetic ranger field report,2,1,0,1,0,0,1,0,1,0,1,0,1
+393,Outstation B,1,2024-11-12,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, dog_movement_high",99,11,5,4,1,105,high,0,Synthetic ranger field report,1,0,1,1,1,1,1,1,0,0,1,0,1
+438,Croker Camp,1,2024-11-13,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, dog_movement_high",31,5,7,5,1,160,high,1,Synthetic ranger field report,6,0,1,0,0,0,0,0,1,1,0,0,1
+165,Jabiru,1,2024-11-14,ranger,Kunumeleng,medium,easy,"humid_build_up, afternoon_storms, mosquitoes_rising",57,8,11,3,0,40,low,1,Synthetic ranger field report,1,1,1,0,0,1,0,0,1,0,1,1,1
+305,Minjilang,1,2024-11-16,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising",46,6,6,4,2,230,medium,1,Synthetic ranger field report,1,1,1,1,0,1,1,1,0,0,0,0,0
+212,Milingimbi,1,2024-11-20,ranger,Kunumeleng,medium,difficult,"humid_build_up, afternoon_storms, mosquitoes_rising, dog_movement_high",95,15,9,5,1,210,high,1,Synthetic ranger field report,1,0,1,1,0,1,1,1,1,0,1,1,1
+349,Outstation A,1,2024-12-02,ranger,Kudjewk,low,moderate,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",20,3,4,3,0,95,high,1,Synthetic ranger field report,6,1,0,0,1,0,0,0,0,1,0,1,0
+258,Ramingining,1,2024-12-03,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",107,14,7,7,0,190,high,1,Synthetic ranger field report,8,1,0,1,0,1,1,0,0,0,1,0,1
+34,Maningrida,1,2024-12-04,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",151,30,5,12,2,120,low,1,Synthetic ranger field report,3,1,1,1,1,0,1,1,1,0,1,0,0
+78,Gunbalanya,1,2024-12-05,veterinarian,Kudjewk,medium,moderate,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",67,13,12,4,2,70,high,1,Synthetic ranger field report,2,1,1,1,0,0,0,1,0,1,0,0,1
+439,Croker Camp,1,2024-12-09,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",40,5,6,3,1,160,low,1,Synthetic ranger field report,1,0,0,1,1,1,0,0,0,1,1,1,0
+394,Outstation B,1,2024-12-11,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",83,18,2,8,1,105,medium,1,Synthetic ranger field report,2,1,1,1,1,1,0,1,1,1,1,0,0
+166,Jabiru,1,2024-12-15,ranger,Kudjewk,medium,easy,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",20,3,6,7,0,40,high,1,Synthetic ranger field report,2,0,1,0,1,1,0,0,1,1,0,1,1
+213,Milingimbi,1,2024-12-15,waldhep_staff,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",70,11,7,6,0,210,high,1,Synthetic ranger field report,1,1,0,0,1,1,1,0,1,1,0,1,0
+122,Warruwi,1,2024-12-18,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",88,14,5,6,0,180,medium,0,Synthetic ranger field report,1,1,0,1,1,1,1,0,1,0,0,0,0
+306,Minjilang,1,2024-12-25,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",33,6,10,4,1,230,high,1,Synthetic ranger field report,1,0,1,1,1,1,0,1,1,0,1,0,1
+259,Ramingining,1,2024-12-31,ranger,Kudjewk,low,difficult,"monsoon_building, flooded_ground, mosquitoes_high",50,10,5,4,0,190,medium,1,Synthetic ranger field report,9,1,0,1,1,1,1,0,0,0,1,1,0
+440,Croker Camp,1,2025-01-05,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",35,5,5,5,0,160,medium,0,Synthetic ranger field report,1,1,0,0,1,1,0,0,0,0,1,0,0
+35,Maningrida,1,2025-01-06,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",48,2,3,3,1,120,medium,0,Synthetic ranger field report,1,1,0,1,0,0,0,1,1,0,1,1,1
+395,Outstation B,1,2025-01-06,ranger,Kudjewk,low,difficult,"monsoon_building, flooded_ground, mosquitoes_high",75,11,6,1,1,105,medium,1,Synthetic ranger field report,2,1,1,0,1,1,1,1,0,0,1,1,0
+350,Outstation A,1,2025-01-09,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",112,18,5,8,1,95,low,1,Synthetic ranger field report,7,1,0,1,1,0,0,0,1,0,0,0,1
+79,Gunbalanya,1,2025-01-14,ranger,Kudjewk,low,moderate,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",169,26,12,6,0,70,high,1,Synthetic ranger field report,3,1,0,0,1,1,1,1,1,1,1,0,0
+167,Jabiru,1,2025-01-20,ranger,Kudjewk,medium,easy,"monsoon_building, flooded_ground, mosquitoes_high",55,9,4,4,1,40,low,0,Synthetic ranger field report,4,0,0,1,1,1,0,1,0,0,1,1,1
+214,Milingimbi,1,2025-01-20,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",135,11,3,5,0,210,low,0,Synthetic ranger field report,1,0,0,0,1,1,1,1,1,1,0,1,1
+123,Warruwi,1,2025-01-23,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",66,10,7,9,1,180,medium,1,Synthetic ranger field report,3,1,0,1,0,0,0,1,0,1,0,0,1
+307,Minjilang,1,2025-02-03,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",108,17,6,7,1,230,high,1,Synthetic ranger field report,1,1,0,0,1,1,1,0,1,0,0,0,0
+441,Croker Camp,1,2025-02-06,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",49,5,7,12,3,160,low,1,Synthetic ranger field report,2,1,1,1,1,1,1,1,1,1,1,1,0
+260,Ramingining,1,2025-02-07,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",131,19,7,4,0,190,high,1,Synthetic ranger field report,9,1,0,1,1,0,0,0,0,1,1,1,1
+351,Outstation A,1,2025-02-08,ranger,Kudjewk,medium,moderate,"monsoon_building, flooded_ground, mosquitoes_high",54,10,2,3,3,95,low,1,Synthetic ranger field report,7,1,1,1,0,1,1,0,0,0,0,1,1
+396,Outstation B,1,2025-02-11,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high",130,24,5,7,3,105,medium,1,Synthetic ranger field report,3,0,1,0,1,1,1,0,1,1,1,1,1
+36,Maningrida,1,2025-02-12,ranger,Kudjewk,low,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",82,19,11,6,3,120,high,1,Synthetic ranger field report,3,1,0,1,0,1,1,0,0,1,0,1,1
+80,Gunbalanya,1,2025-02-14,ranger,Kudjewk,high,moderate,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",162,20,8,15,3,70,medium,1,Synthetic ranger field report,4,1,1,1,1,1,1,1,0,1,1,1,0
+215,Milingimbi,1,2025-02-17,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",102,16,4,6,1,210,high,0,Synthetic ranger field report,2,1,0,1,0,0,0,0,1,0,1,0,1
+168,Jabiru,1,2025-02-19,ranger,Kudjewk,high,easy,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",65,12,6,11,3,40,low,1,Synthetic ranger field report,5,1,1,1,1,1,1,1,0,0,1,0,0
+124,Warruwi,1,2025-02-24,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",87,6,4,3,0,180,high,1,Synthetic ranger field report,5,1,0,1,1,1,0,0,1,1,1,1,1
+308,Minjilang,1,2025-03-08,ranger,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water, dog_movement_high",80,7,4,7,1,230,high,1,Synthetic ranger field report,2,1,0,0,1,0,1,1,1,1,1,1,0
+442,Croker Camp,1,2025-03-08,ranger,Kudjewk,medium,difficult,"monsoon_building, flooded_ground, mosquitoes_high, dog_movement_high",30,3,4,3,0,160,high,0,Synthetic ranger field report,3,0,0,0,1,1,1,1,1,0,0,1,1
+397,Outstation B,1,2025-03-11,waldhep_staff,Kudjewk,high,difficult,"monsoon_building, flooded_ground, mosquitoes_high, standing_water",114,19,8,9,0,105,medium,1,Synthetic ranger field report,5,1,0,1,1,1,1,0,1,1,1,1,0
