@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Future Insights</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <a href="homepage.html" class="navbar-logo">The Dreamers' Star Chart</a>
+    <div class="navbar-links">
+      <a href="homepage.html#home">Home</a>
+      <a href="homepage.html#seasons">Seasons</a>
+      <a href="homepage.html#dogs">Dogs</a>
+      <a href="homepage.html#insights">Insights</a>
+    </div>
+  </nav>
+
+  <main class="screen">
+    <section class="dogs-reporting">
+      <div class="dogs-left">
+        <div class="card" style="max-width: 520px; width: 100%;">
+          <h1>Future Insights</h1>
+
+          <div class="form-grid">
+            <label for="region">
+              Set region:
+              <input type="text" id="region" name="region" placeholder="Enter region" />
+            </label>
+
+            <label for="duration">
+              Set duration:
+              <select id="duration" name="duration">
+                <option value="">Select duration</option>
+                <option value="1">1 month</option>
+                <option value="3">3 months</option>
+                <option value="6">6 months</option>
+                <option value="9">9 months</option>
+                <option value="12">12 months</option>
+              </select>
+            </label>
+
+            <button type="submit" class="primary-btn">Submit</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="dogs-right" style="text-align: center;">
+        <div class="card" style="max-width: 520px; width: 100%;">
+          <img
+            src="resources\sunsetPic.jpeg"
+            alt="Future insights"
+            class="dogs-image"
+          />
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
