@@ -22,6 +22,10 @@ body {
     color: var(--text);
 }
 
+html {
+  scroll-padding-top: 90px;
+}
+
 .navbar {
     position: fixed;
     top: 0;
@@ -31,9 +35,9 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 16px 24px;
-  background: var(--card);
-  border-bottom: 1px solid var(--border);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
 }
 
 .navbar-logo {
