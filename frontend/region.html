@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>New Region</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <nav class="navbar">
+    <a href="homepage.html" class="navbar-logo">The Dreamers' Star Chart</a>
+    <div class="navbar-links">
+      <a href="homepage.html#home">Home</a>
+      <a href="homepage.html#seasons">Seasons</a>
+      <a href="homepage.html#dogs">Dogs</a>
+      <a href="homepage.html#insights">Insights</a>
+    </div>
+  </nav>
+
+  <main class="screen">
+    <section class="center" style="flex-direction: column; gap: 24px;">
+      <h1>Add New Region</h1>
+
+      <div class="card"
+        style="max-width: 700px; min-height: 400px; display: flex; align-items: center; justify-content: center;">
+        <!-- ADD INPUTS HERE -->
+        <form id="regionForm" class="form-grid">
+          <label>
+            Region Name
+            <!--<select name="reporter_type" required>
+              <option value="">Select</option>
+              <option value="ranger">Ranger</option>
+              <option value="government_official">Government Official</option>
+              <option value="veterinarian">Veterinarian</option>
+          </select>-->
+            <input type="text" name="name" required />
+          </label>
+
+          <label>
+            State / Territory
+            <select name="state_territory">
+              <option value="">Select</option>
+              <option value="new_south_wales">New South Wales (NSW)</option>
+              <option value="victoria">Victoria (VIC)</option>
+              <option value="queensland">Queensland (QLD)</option>
+              <option value="south_australia">South Australia (SA)</option>
+              <option value="western_australia">Western Australia (WA)</option>
+              <option value="tasmania">Tasmania (TAS)</option>
+              <option value="australian_capital_territory">Australian Capital Territory (ACT)</option>
+              <option value="northern_territory">Northern Territory (NT)</option>
+            </select>
+          </label>
+
+          <label>
+            Notes
+            <textarea name="notes" rows="4" placeholder="Optional notes"></textarea>
+          </label>
+
+          <button type="submit" class="primary-btn">Save Region</button>
+        </form>
+      </div>
+      <div id="regionMessage" class="subtext" style="margin-top: 16px;"></div>
+    </section>
+  </main>
+  <script src="js/region.js"></script>
+</body>
+
+</html>

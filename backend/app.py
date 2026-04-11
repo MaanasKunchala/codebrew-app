@@ -19,6 +19,12 @@ app.add_middleware(
 DB_PATH = Path(__file__).parent / "database" / "reports.db"
 
 
+class RegionCreate(BaseModel):
+    name: str
+    state: Optional[str] = ""
+    notes: Optional[str] = ""
+
+
 class Report(BaseModel):
     community_name: str
     region_name: str
@@ -42,6 +48,49 @@ def get_connection():
     conn = sqlite3.connect(DB_PATH)
     conn.execute("PRAGMA foreign_keys = ON;")
     return conn
+
+
+@app.post("/regions")
+def create_region(region: RegionCreate):
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    # Check if region already exists
+    cursor.execute(
+        "SELECT id, name, state, notes FROM regions WHERE LOWER(name) = LOWER(?)",
+        (region.name,),
+    )
+    existing = cursor.fetchone()
+
+    if existing:
+        conn.close()
+        return {
+            "id": existing[0],
+            "name": existing[1],
+            "state": existing[2],
+            "notes": existing[3],
+            "message": "Region already exists",
+        }
+
+    cursor.execute(
+        """
+        INSERT INTO regions (name, state, notes)
+        VALUES (?, ?, ?)
+    """,
+        (region.name, region.state, region.notes),
+    )
+
+    region_id = cursor.lastrowid
+    conn.commit()
+    conn.close()
+
+    return {
+        "id": region_id,
+        "name": region.name,
+        "state": region.state,
+        "notes": region.notes,
+        "message": "Region created successfully",
+    }
 
 
 def get_region_id_by_name(cursor, region_name: str):
@@ -162,7 +211,7 @@ def submit_report(report: Report):
     """,
         (
             report.community_name,
-            1,  # temporary: West Arnhem Land starter region
+            region_id,
             report_date,
             report.reporter_type,
             report.local_season,
@@ -224,4 +273,5 @@ def submit_report(report: Report):
         },
         "reasons": reasons,
         "recommended_action": "Review report and schedule community follow-up if needed.",
+        "seasonal_guidance": seasonal_guidance,
     }
